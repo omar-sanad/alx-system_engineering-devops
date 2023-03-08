@@ -1,2 +1,3 @@
 # alx-system_engineering-devops
-shell
+
+sheel course from alx-africa
